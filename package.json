@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "dev": "CONFIG_ENV=base,local,dev node test.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.1.2"
+  }
+}
