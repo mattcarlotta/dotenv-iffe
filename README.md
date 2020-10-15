@@ -12,4 +12,4 @@ Run example: `yarn dev`
 
 ## Proposal
 
-See dot-env [feature request](https://github.com/motdotla/dotenv/issues/492).
+See dotenv [feature request](https://github.com/motdotla/dotenv/issues/492).
